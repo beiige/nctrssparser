@@ -3,7 +3,7 @@ This is a simple script that takes the RSS feed (named "rss") of the Nihongo Con
 I created this so that I could shuffle through it easily while I commute to work, and I figured someone else might find it useful, so here it is. It probably could be written in 2 or 3 lines of bash, but 🤷.
 
 # Usage
-
+You need to grab the RSS feed from here: https://nihongoconteppei.com/feed/podcast/
 ```bash
 # Make sure you're working in the repo directory
 mv RSS/FEED/FILE ./rss
